@@ -11,8 +11,8 @@ android {
         applicationId = "mx.hdez.subtitulos"
         minSdk = 29
         targetSdk = 34
-        versionCode = 1
-        versionName = "0.1"
+        versionCode = 2
+        versionName = "0.2"
     }
 
     // Firma de depuración fija: así cada versión nueva se instala encima de la anterior.
