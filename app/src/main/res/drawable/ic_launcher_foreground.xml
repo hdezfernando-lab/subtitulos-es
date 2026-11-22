@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pantalla blanca con esquinas redondeadas -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38 H70 A8,8 0 0 1 78,46 V62 A8,8 0 0 1 70,70 H38 A8,8 0 0 1 30,62 V46 A8,8 0 0 1 38,38 Z" />
+    <!-- Dos líneas de subtítulo -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M37,48 H71 V53 H37 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M37,57 H61 V62 H37 Z" />
+</vector>
